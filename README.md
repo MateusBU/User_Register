@@ -1,4 +1,7 @@
 # User_Register
+BACKEND: JSON SERVER
+FRONTEND: REACT
+
 
 - [Commands](#commands)
 - [Package.json](#packagejson)
@@ -20,6 +23,11 @@
 1. **Run the start script defined in `package.json`.**  
 2. **Commonly used to launch the main application.**
 
+## *create-react-app frontend*
+
+1. **Creates a new React application named `frontend`.**  
+2. **Sets up all the necessary files, dependencies, and build configuration automatically.**  
+3. **Generates a ready-to-start project folder called `frontend` with React boilerplate.**
 
 # Packagejson
 ## *--watch db.json*
