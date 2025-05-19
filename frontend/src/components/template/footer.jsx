@@ -4,5 +4,6 @@ import React from 'react';
 
 export default props =>
     <footer className="footer">
-        Footer
+        Developed with <i className="fa fa-heart text-danger"></i> by 
+        <strong>Mateus</strong>
     </footer>
