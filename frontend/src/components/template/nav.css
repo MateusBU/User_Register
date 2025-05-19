@@ -2,15 +2,3 @@ aside.menu-area{
     background-color: var(--bg-dark);
     box-shadow: var(--shadow-nav);
 }
-
-.menu a{
-    display: block; /*each row contains one item*/
-    text-decoration: none;
-    color:#fff;
-    padding: 15px;
-    font-weight: 300;
-}
-
-.menu a:hover{
-    background: linear-gradient(135deg, #007aa6 0%, #32dac3 100%);
-}
